@@ -5,13 +5,13 @@
 
 Crear un sistema básico de búsqueda por consola que permita aplicar y comprender:
 
-Búsqueda lineal
+-Búsqueda lineal
 
-Búsqueda binaria
+-Búsqueda binaria
 
-Búsqueda del libro más reciente y antiguo
+-Búsqueda del libro más reciente y antiguo
 
-Búsqueda por coincidencias en descripciones
+-Búsqueda por coincidencias en descripciones
 
 Este proyecto forma parte del caso de estudio sobre algoritmos de búsqueda en estructuras de datos.
 
@@ -21,22 +21,23 @@ María Celeste Carrasco Obando
 
 🛠️ Funcionalidades del sistema
 
-Buscar libros por título (búsqueda lineal).
+-Buscar libros por título (búsqueda lineal).
 
-Buscar autores en una lista ordenada (búsqueda binaria).
+-Buscar autores en una lista ordenada (búsqueda binaria).
 
-Mostrar libro más reciente y más antiguo.
+-Mostrar libro más reciente y más antiguo.
 
-Buscar palabras clave dentro de descripciones.
+-Buscar palabras clave dentro de descripciones.
 
 ▶ Cómo ejecutar el proyecto
 
-Clona este repositorio:
+-Clona este repositorio:
 
-git clone https://github.com/Celeste-10/Caso-de-estudio
+-git clone https://github.com/Celeste-10/Caso-de-estudio
 
 
-Abre el proyecto en Visual Studio o VS Code.
+-Abre el proyecto en Visual Studio o VS Code.
 
-Ejecuta el programa con dotnet run o presionando Start.
+-Ejecuta el programa con dotnet run o presionando Start.
+
 
